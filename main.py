@@ -5,7 +5,7 @@ import json
 import sys
 import traceback
 from pathlib import Path
-
+ .env.
 import sounddevice as sd
 from google import genai
 from google.genai import types
